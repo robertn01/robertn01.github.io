@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+permalink: /:categories/:year/:month/:title/
+title: Robert's personal website
+description: Personal mini-site
